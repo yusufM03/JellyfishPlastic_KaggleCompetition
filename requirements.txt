@@ -1,0 +1,6 @@
+pandas
+numpy
+tensorflow
+opencv-python
+scikit-learn
+vit-keras
